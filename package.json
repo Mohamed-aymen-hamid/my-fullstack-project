@@ -1,0 +1,14 @@
+{
+  "name": "my-fullstack-project",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "start:frontend": "cd frontend && npm run dev",
+    "start:backend": "cd backend && npm run start"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  },
+  "license": "ISC"
+}
