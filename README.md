@@ -20,7 +20,7 @@ To run both the **frontend** and **backend** at the same time, follow the steps 
 1- Clone the repository:
    Clone this project to your local machine by running the following command in your terminal:
 
-   git clone https://github.com/SPvcwsd/my-fullstack-project.git
+   git clone https://github.com/Mohamed-aymen-hamid/my-fullstack-project.git
 
 2- Navigate into the project folder:
 
