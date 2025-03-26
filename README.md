@@ -2,7 +2,7 @@
 
 ## Contributors:
 - Mohamed Aymen Hamid
-- Yassine Amddah
+- Yassine Amaddah
 
 ## Description:
 This project is a fullstack Author Management System built using **NestJS** for the backend and **Next.js** for the frontend. It allows you to:
